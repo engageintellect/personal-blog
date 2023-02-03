@@ -1,12 +1,12 @@
 ---
-name: Tails Azimuth
+name: Josh Chadwick
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+occupation: Developer
 company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+email: josh.chadick@protonmail.com
+twitter: https://twitter.com/engageintellect
 linkedin: https://www.linkedin.com
-github: https://github.com
+github: https://github.com/engageintellect
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
